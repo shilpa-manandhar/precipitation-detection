@@ -19,5 +19,5 @@ The dataset used in this manuscript is GPS PWV data derived using GIPSY/OASIS II
 
 ## Core functionality
 * `TimeSeries_Plot.m` plots the time series of different weather variables and rain.
-* TrainTestResults.m generates the training and testing at different % of train data size
+* `TrainTestResults.m` generates the training and testing at different % of train data size
 
