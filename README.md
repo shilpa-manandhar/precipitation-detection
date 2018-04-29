@@ -8,16 +8,16 @@ Please cite the above paper if you intend to use whole/part of the code. This co
 
 The GPS and Weather station data from singpaore (NTU station) which has been used for the paper are also made available.
 
-Manuscript
+## Manuscript
 The author version of this manuscript is manuscript.PDF.
 
-Code Organization
+## Code Organization
 All codes are written in MATLAB. 
 
-Dataset
+## Dataset
 The dataset used in this manuscript is GPS PWV data derived using GIPSY/OASIS II software using RINEX files for IGS station from Singapore (NTUS). The data files also consist of the weather station data. Weather station is collocated to the GPS station.
 
-Core functionality
+## Core functionality
 TimeSeries_Plot.m plots the time series of different weather variables and rain.
 TrainTestResults.m generates the training and testing at different % of train data size
 
